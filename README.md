@@ -1,2 +1,2 @@
-# prime-numbers
+# python
 check of prime numbers
